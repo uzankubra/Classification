@@ -24,3 +24,12 @@ Consumer complaints are classified using natural language processing methods to 
 You can find the dataset here: 
 
 https://statso.io/consumer-complaint-identification-case-study/
+
+
+3. Titanic Dataset Analysis
+
+You can find the dataset here:
+
+https://www.kaggle.com/datasets/heptapod/titanic
+
+   
